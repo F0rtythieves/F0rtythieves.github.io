@@ -12,14 +12,14 @@ permalink:           pretty
 title:            lucas
 tagline:          'Make a little progress every day'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              https://f0rtythieves.github.io
 
 author:
   name:           'Lucas Wong'
   url:            http://www.baidu.com
   gravatar:       http://www.baidu.com
   photo:          https://s.gravatar.com/avatar/70d88b06d792eaa448b958acbde5b47f?s=350
-  introduction:   'a stupid student <a href="#">more</a>.'
+  introduction:   'a biology dog /student /loler/loser<a href="https://github.com/F0rtythieves">more</a>.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
@@ -28,4 +28,4 @@ paginate_path:    '/blog/page:num'
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/F0rtythieves
