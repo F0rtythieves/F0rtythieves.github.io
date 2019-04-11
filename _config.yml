@@ -1,0 +1,31 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:            lucas
+tagline:          'Make a little progress every day'
+description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
+url:              http://codinfox.github.io
+
+author:
+  name:           'Lucas Wong'
+  url:            http://www.baidu.com
+  gravatar:       http://www.baidu.com
+  photo:          https://s.gravatar.com/avatar/70d88b06d792eaa448b958acbde5b47f?s=350
+  introduction:   'a stupid student <a href="#">more</a>.'
+
+paginate:         5
+paginate_path:    '/blog/page:num'
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
