@@ -19,7 +19,7 @@ author:
   url:            http://www.baidu.com
   gravatar:       http://www.baidu.com
   photo:          https://s.gravatar.com/avatar/70d88b06d792eaa448b958acbde5b47f?s=350
-  introduction:   'an invictus <strong><p>biology dog</p> <p>HUSTer</p>  <p>summoner</p>  <p>loser</p> </strong>'
+  introduction:   'an invictus <strong><p>biology dog</p> <p>summoner</p>  <p>HUSTer</p>  <p>loser</p> </strong>'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
